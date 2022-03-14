@@ -8,7 +8,7 @@ The objective of this project is to showcase how I can customise Flutter Widgets
 
 I am going to make a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling.
 
-![Finished App](https://streamable.com/uisnn6)
+![Finished App](https://github.com/Michaelalo1/images/blob/master/bmi-calc-demo.gif)
 
 ## What I implemented
 
